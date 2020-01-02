@@ -1,0 +1,62 @@
+html {
+  background-color: black;
+}
+body {
+  background-color: white;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+
+header a {
+  text-align: center;
+  text-decoration: none;
+}
+
+header h1 {
+  font-size: 40px;
+  margin-top: 0px;
+}
+
+header form {
+  position: absolute;
+  right: 100px;
+}
+
+header ul {
+  margin-top:80px;
+  background-color: gray; 
+  padding: 20px;
+  padding-left: 30px;
+  margin-bottom: 0px;
+}
+
+main {
+  background-color: yellow;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+
+main h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+main li {
+  padding-left: 10px;
+  margin-bottom: 40px;
+}
+aside {
+  position: absolute;
+  top: 500px;
+  right: 100px;
+}
+
+footer {
+  background-color: gray;
+  margin-top: 0px;
+  text-align: center;  
+  padding: 20px;
+}
