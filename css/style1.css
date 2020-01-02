@@ -9,10 +9,15 @@ body {
   position: relative;
 }
 
+a:hover {
+  color: black;
+}
+
 header a {
   text-align: center;
   text-decoration: none;
 }
+
 
 header h1 {
   font-size: 40px;
@@ -33,7 +38,7 @@ header ul {
 }
 
 main {
-  background-color: yellow;
+  background-color: #ccc;
   padding-top: 10px;
   padding-bottom: 20px;
 }
@@ -49,13 +54,14 @@ main li {
   margin-bottom: 40px;
 }
 aside {
+  background-color: yellow;
   position: absolute;
   top: 500px;
   right: 100px;
 }
 
 footer {
-  background-color: gray;
+  background-color: pink;
   margin-top: 0px;
   text-align: center;  
   padding: 20px;
