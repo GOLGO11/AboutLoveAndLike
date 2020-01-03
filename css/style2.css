@@ -58,7 +58,7 @@ main li {
   margin-bottom: 40px;
 }
 aside {
-  background-color: yellow;
+  background-color: gray;
   position: absolute;
   top: 500px;
   right: 100px;
@@ -77,4 +77,8 @@ footer {
 
 .main p {
   margin-bottom: 20px;
+}
+
+.p {
+  text-align: center;
 }
