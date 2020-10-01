@@ -27,5 +27,5 @@ def log_path():
     return log_path
 
 
-if __name__ == '__main__':
-    root_path()
+#if __name__ == '__main__':
+ #   root_path()

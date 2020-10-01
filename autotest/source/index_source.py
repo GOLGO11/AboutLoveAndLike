@@ -2,7 +2,7 @@
 
 class Source_index():
     # title
-    title_AboutLikeAndLove_xpath = '/html/body/header/a/h1'
+    title_AboutLoveAndLike_xpath = '/html/body/header/a/h1'
 
     # subtitle
     # subtitle 1
@@ -19,7 +19,6 @@ class Source_index():
     
     # webmaster recommand 
     # langyuxiangxinliao
-    # langyuxiangxinliao TypeStatistics
     # langyuxiangxinliao TypeStatistics 1
     lyxxl_ts_shenyuren_xpath = '/html/body/main/div/ul/li[1]/p[2]/a[1]'
 
@@ -29,7 +28,7 @@ class Source_index():
     # langyuxiangxinliao detail
     lyxxl_detail_xpath = '/html/body/main/div/ul/li[1]/a'
 
-    # yiniandaiji TypeStatistics
+    # yiniandaiji
     # yiniandaiji TypeStatistics 1
     yndj_ts_BG_xpath = '/html/body/main/div/ul/li[2]/p[2]/a'
 
@@ -38,16 +37,16 @@ class Source_index():
 
     # TypeStatistics
     # TypeStatistics 1
-    ts_BL_xpath = '/html/body/aside/a[1]'
+    ts_BG_xpath = '/html/body/aside/a[1]'
 
     # TypeStatistics 2
-    ts_GL_xpath = '/html/body/aside/a[2]'
+    ts_BL_xpath = '/html/body/aside/a[2]'
 
     # TypeStatistics 3
-    ts_qianzaiBL_xpath = '/html/body/aside/a[3]'
+    ts_GL_xpath = '/html/body/aside/a[3]'
 
     # TypeStatistics 4
-    ts_BG_xpath = '/html/body/aside/a[4]'
+    ts_qianzaiBL_xpath = '/html/body/aside/a[4]'
 
     # TypeStatistics 5
     ts_shoujiao_xpath = '/html/body/aside/a[5]'
