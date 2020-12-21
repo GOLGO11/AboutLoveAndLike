@@ -34,6 +34,7 @@ class CommonConfig():
         self.langkejianxinzyp_url = 'file:///home/zzy/Documents/code/AboutLoveAndLike/html/AnimePage/%E6%B5%AA%E5%AE%A2%E5%89%91%E5%BF%83%E8%BF%BD%E5%BF%86%E7%AF%87.html'
         self.langyuxiangxinliao_url = 'file:///home/zzy/Documents/code/AboutLoveAndLike/html/AnimePage/%E7%8B%BC%E4%B8%8E%E9%A6%99%E8%BE%9B%E6%96%99.html'
         self.lianaiqingjie_url = 'file:///home/zzy/Documents/code/AboutLoveAndLike/html/AnimePage/%E6%81%8B%E7%88%B1%E6%83%85%E7%BB%93.html'
+        self.lianfeng_url = 'file:///home/zzy/Documents/code/AboutLoveAndLike/html/AnimePage/%E6%81%8B%E9%A3%8E.html'
         self.mizhibinvx_url = 'file:///home/zzy/Documents/code/AboutLoveAndLike/html/AnimePage/%E8%BF%B7%E4%B9%8B%E5%BD%BC%E5%A5%B3x.html'
         self.mokashaonvying_url = 'file:///home/zzy/Documents/code/AboutLoveAndLike/html/AnimePage/%E9%AD%94%E5%8D%A1%E5%B0%91%E5%A5%B3%E6%A8%B1.html'
         self.munto_url = 'file:///home/zzy/Documents/code/AboutLoveAndLike/html/AnimePage/munto.html'
